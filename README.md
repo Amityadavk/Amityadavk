@@ -12,21 +12,23 @@
 <a href="https://github.com/Amityadavk?tab=followers"><img src="https://img.shields.io/github/followers/Amityadavk?label=Followers&style=social" alt="GitHub Badge"></a>
 <br>
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-## <img src="https://i.postimg.cc/Wbq9jQMN/profile-logo.png" alt="Portfolio" width="40" height="40" align="center"/> About Me
-- 🔭 I’m currently working on **improving my skills**
-- 🌱 I’m currently learning **Full-Stack Web Development**
+ <img src="https://i.postimg.cc/Wbq9jQMN/profile-logo.png" alt="Portfolio" width="40" height="40" align="center"/> About Me <br />
+
+- 🔭 I’m currently working on **improving my skills** <br />
+- 🌱 I’m currently learning **Full-Stack Web Development** <br />
 <!-- - 👨‍💻 Personal portfolio: **<a href="https://denish-fuletra-portfolio.netlify.app/" target="_blank">Portfolio</a>** -->
-- 💬 Ask me about **Web, FrontEnd and BackEnd**
-- 📫 How to reach me: **amityadavpbh72@gmail.com**
+- 💬 Ask me about **Web, FrontEnd and BackEnd** <br />
+- 📫 How to reach me: **amityadavpbh72@gmail.com** <br />
 <!-- - ⚡ Fun fact **I am half finished** -->
 ---
-## Connect with me:
+## Connect with me:<br />
 <!-- <a href="https://twitter.com/karanchandekar1" target="_blank"><img align="left" alt="Karan | Twitter" src="https://skillicons.dev/icons?i=twitter" /></a> -->
 <a href="linkedin.com/in/amit-yadav🇮🇳-3b43b41a3" target="_blank"><img align="left" alt="Amit | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://www.instagram.com/amit_yadunandan/" target="_blank"><img align="left" alt="Amit | Instagram" src="https://skillicons.dev/icons?i=instagram" /></a>
 <br />
 <br />
 ---
+
 ## 🚀 Languages and Tools:
 <img align="left" src="https://skillicons.dev/icons?i=html,css,js,java,react,bootstrap,nodejs,express,git,github,vscode" />
 <br />
